@@ -1,4 +1,5 @@
 Shadi
 New line from folder 1
 Second line from folder 1
+new line from folder 2
 New line from folder 1
