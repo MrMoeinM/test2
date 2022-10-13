@@ -1,2 +1,3 @@
 Shadi
 New line from folder 1
+Second line from folder 1
